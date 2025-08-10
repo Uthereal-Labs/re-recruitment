@@ -22,18 +22,18 @@ We are not looking for a huge list of changes. Choose 1-2 clear improvements tha
 1. Click **_Use this template_** on the repo page → create a Private repo in your account.
 Do not fork; forks may be visible to others.
 
-Do the work (≤60 min).
+2. Do the work (≤60 min).
 
-2. Make a commit (or optional PR) that includes:
+3. Make a commit (or optional PR) that includes:
 
 * `delivery.md` (your report; see template)
 
 * Any code changes you made (optional but welcome)
 
-3. Add reviewers as collaborators with repo access:
+4. Add reviewers as collaborators with repo access:
 
 joaocarv, welyweah, viictorjimenezzz, gavi210
 
-4. Share the repo (or PR inside your private repo) link with us.
+5. Share the repo (or PR inside your private repo) link with us.
 
 
