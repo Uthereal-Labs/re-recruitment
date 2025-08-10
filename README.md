@@ -2,6 +2,7 @@
 **Timebox:** ~60 minutes. Focus on high-impact changes and clear reasoning.
 
 Choose 1 task that fits your role/experience best: 
+
 `ai_agent.py` – Fix/upgrade the reasoning, guardarail capabilities of this agent.
 
 `model_finetuning.py` – Upgrade the finituning strategy for this model. 
